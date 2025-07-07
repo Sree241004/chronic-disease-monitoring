@@ -50,8 +50,5 @@ This project provides a machine learning-based pipeline for monitoring, analyzin
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](LICENSE)
-
 ## Contact
-For questions or support, please contact [Your Name] at [your.email@example.com].
+For questions or support, please contact Boga Sudharshini Sree at sudharshinisree.boga@gmail.com.
